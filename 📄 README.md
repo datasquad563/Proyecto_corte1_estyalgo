@@ -35,6 +35,7 @@ Consulta la [Wiki del proyecto](../../wiki) para más detalles sobre:
 * Uso de la aplicación
 * Ejemplos prácticos
 * Complejidad algorítmica
+* Tradución a lenguaje GCL
 
 ---
 
