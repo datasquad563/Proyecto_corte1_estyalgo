@@ -1,6 +1,5 @@
-# Proyecto_corte1_estyalgo
+# Proyecto_corte1_EDA
 Primera entrega del proyecto del curso Estructuras de datos y algoritmos
-# 📄 README.md
 
 ## 🚗 Sistema de Recomendación de Autos
 
